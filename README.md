@@ -1,25 +1,42 @@
-# Code Refactoring Homework
+# HTML CSS Git: Code Refactor
+Edited HTML elements and CSS in order to meet the accessability requirements improved performance and logical structure.
 
-* Changed/added HTML tags for better semantics
-* Changed/added HTML tags for better accessability
-* Cleaned,combined,added and rearanged  CSS classes for better page performance and readability
+## Changelog index.html
 
-> I have innitialy *<!-- Commented out the source-code for HTML&CSS to  be brought back up easily,for you devs out there-->*
-However decied to leave accual comments with traces of what has been changed...not sure when and how to use that just yet
+*Added meta tags for SEO
+*Added abbreviation tag
+*Added alternatives(img)
+*Restructuring
+*Added semantic elements
+*Deleted non-functioning code
+*Comments
 
+## Changelog style.css
+
+*Structured classes
+*Combined classes 
+*Improoved 
+*Corrected typography
 
 ## Techniques
 
->Google FU
->Coffee
->Meditation
->Homework buddy
+*Google Search
+*W3schools
+*DevTools-Lighthouse
+*Wikipedia
 
-### Contributor
+## Contributor
 
->*Val Nimirenco*
-*valnimirenco@gmail.com*
-[GitHub](https://github.com/valiant87)
+*Name:Val Nimirenco
+*Email:valnimirenco@gmail.com
 
-**LINKS**
-[Visit GitHub](https://github.com/valiant87/refactoring)
+## Links
+
+*GitHub:https://github.com/valiant87
+*Repository:https://github.com/valiant87/refactoring
+*Webside:https://valiant87.github.io/refactoring/
+
+
+
+
+
