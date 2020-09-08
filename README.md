@@ -35,8 +35,3 @@ Edited HTML elements and CSS in order to meet the accessability requirements imp
 *GitHub:https://github.com/valiant87
 *Repository:https://github.com/valiant87/refactoring
 *Webside:https://valiant87.github.io/refactoring/
-
-
-
-
-
